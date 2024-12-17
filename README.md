@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sai-Jithendra-Gonji/count.svg?color=0077b6&style=plastic" />
+<div class="visitor-count-container">
+  <div class="visitor-count-text">
+    <h2>Thanks for stopping by my profile! You’re visitor number # </h2>
+    <p align="center"> <img src="https://profile-counter.glitch.me/Sai-Jithendra-Gonji/count.svg?color=0077b6&style=plastic" />
 </p>
-
+  </div>
+</div>
+---------------------------------------------------------------------------------------------------------------------------------
 I'm a Seasoned DevOps Engineer and Cloud Architect with 9+ years of comprehensive experience in architecting and implementing robust cloud solutions across diverse industry sectors. 
 I have Proven expertise in DevOps, Cloud Computing, Infrastructure & Configuration Management, and Linux Systems. Demonstrated success in designing highly scalable, fault-tolerant infrastructures on AWS and Azure platforms. Rich portfolio includes delivering mission-critical solutions for:
 
