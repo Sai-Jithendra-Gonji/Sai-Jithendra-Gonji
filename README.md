@@ -1,8 +1,9 @@
 <div class="visitor-count-container">
   <div class="visitor-count-text">
-    <h2>Thanks for stopping by my profile! You’re visitor number # </h2>
-    <p align="center"> <img src="https://profile-counter.glitch.me/Sai-Jithendra-Gonji/count.svg?color=0077b6&style=plastic" />
-</p>
+    <h2>Thanks for stopping by my profile! You're visitor number</h2>
+    <p align="center">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Sai-Jithendra-Gonji" alt="Visitors"/>
+    </p>
   </div>
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------
